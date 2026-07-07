@@ -1,1 +1,0 @@
-# genAI-and-agenticAI
